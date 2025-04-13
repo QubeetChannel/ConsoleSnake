@@ -17,7 +17,7 @@ namespace SnakeLogic {
         public ConsoleColor FloorColor { get { return m_floor_color;} set { if (SnakeValidator.isValidateColor(value)) m_floor_color = value; }}
 
         public Snake(Point Start) {
-            int snakeLength = 3;
+            int snakeLength = 20;
 
             for (int i = 0; i < snakeLength + 1; i++) // +1 для того чтобы был пиксель с полом
                 m_snake.Add(new Point(Start.X, Start.Y + i));
