@@ -1,0 +1,14 @@
+D:\Pure Fantasy\C#\Snake\Snake\bin\Debug\net9.0\Snake.exe
+D:\Pure Fantasy\C#\Snake\Snake\bin\Debug\net9.0\Snake.deps.json
+D:\Pure Fantasy\C#\Snake\Snake\bin\Debug\net9.0\Snake.runtimeconfig.json
+D:\Pure Fantasy\C#\Snake\Snake\bin\Debug\net9.0\Snake.dll
+D:\Pure Fantasy\C#\Snake\Snake\bin\Debug\net9.0\Snake.pdb
+D:\Pure Fantasy\C#\Snake\Snake\obj\Debug\net9.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pure Fantasy\C#\Snake\Snake\obj\Debug\net9.0\Snake.AssemblyInfoInputs.cache
+D:\Pure Fantasy\C#\Snake\Snake\obj\Debug\net9.0\Snake.AssemblyInfo.cs
+D:\Pure Fantasy\C#\Snake\Snake\obj\Debug\net9.0\Snake.csproj.CoreCompileInputs.cache
+D:\Pure Fantasy\C#\Snake\Snake\obj\Debug\net9.0\Snake.dll
+D:\Pure Fantasy\C#\Snake\Snake\obj\Debug\net9.0\refint\Snake.dll
+D:\Pure Fantasy\C#\Snake\Snake\obj\Debug\net9.0\Snake.pdb
+D:\Pure Fantasy\C#\Snake\Snake\obj\Debug\net9.0\Snake.genruntimeconfig.cache
+D:\Pure Fantasy\C#\Snake\Snake\obj\Debug\net9.0\ref\Snake.dll
